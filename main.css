@@ -13,3 +13,6 @@ input {
 		color:#f9cc18;
 		font-family:'Courier'
 }
+#stuff {
+	display: flex;
+}
